@@ -1,0 +1,151 @@
+D:\SOURCEWIS\WIS\Softwarelabor\CPSMobile\WISApp\WISApp.Module.NavigationExample\bin\Debug\WISApp.Module.NavigationExample.dll
+D:\SOURCEWIS\WIS\Softwarelabor\CPSMobile\WISApp\WISApp.Module.NavigationExample\bin\Debug\WISApp.Module.NavigationExample.pdb
+D:\SOURCEWIS\WIS\Softwarelabor\CPSMobile\WISApp\WISApp.Module.NavigationExample\bin\Debug\GalaSoft.MvvmLight.dll
+D:\SOURCEWIS\WIS\Softwarelabor\CPSMobile\WISApp\WISApp.Module.NavigationExample\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\SOURCEWIS\WIS\Softwarelabor\CPSMobile\WISApp\WISApp.Module.NavigationExample\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\SOURCEWIS\WIS\Softwarelabor\CPSMobile\WISApp\WISApp.Module.NavigationExample\bin\Debug\WISApp.Library.dll
+D:\SOURCEWIS\WIS\Softwarelabor\CPSMobile\WISApp\WISApp.Module.NavigationExample\bin\Debug\Xamarin.Forms.Core.dll
+D:\SOURCEWIS\WIS\Softwarelabor\CPSMobile\WISApp\WISApp.Module.NavigationExample\bin\Debug\Xamarin.Forms.Platform.dll
+D:\SOURCEWIS\WIS\Softwarelabor\CPSMobile\WISApp\WISApp.Module.NavigationExample\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\SOURCEWIS\WIS\Softwarelabor\CPSMobile\WISApp\WISApp.Module.NavigationExample\bin\Debug\SQLite.Net.dll
+D:\SOURCEWIS\WIS\Softwarelabor\CPSMobile\WISApp\WISApp.Module.NavigationExample\bin\Debug\SQLite.Net.Async.dll
+D:\SOURCEWIS\WIS\Softwarelabor\CPSMobile\WISApp\WISApp.Module.NavigationExample\bin\Debug\WISApp.Library.pdb
+D:\SOURCEWIS\WIS\Softwarelabor\CPSMobile\WISApp\WISApp.Module.NavigationExample\bin\Debug\WISApp.Library.xml
+D:\SOURCEWIS\WIS\Softwarelabor\CPSMobile\WISApp\WISApp.Module.NavigationExample\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\SOURCEWIS\WIS\Softwarelabor\CPSMobile\WISApp\WISApp.Module.NavigationExample\bin\Debug\GalaSoft.MvvmLight.xml
+D:\SOURCEWIS\WIS\Softwarelabor\CPSMobile\WISApp\WISApp.Module.NavigationExample\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\SOURCEWIS\WIS\Softwarelabor\CPSMobile\WISApp\WISApp.Module.NavigationExample\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\SOURCEWIS\WIS\Softwarelabor\CPSMobile\WISApp\WISApp.Module.NavigationExample\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\SOURCEWIS\WIS\Softwarelabor\CPSMobile\WISApp\WISApp.Module.NavigationExample\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\SOURCEWIS\WIS\Softwarelabor\CPSMobile\WISApp\WISApp.Module.NavigationExample\bin\Debug\Xamarin.Forms.Core.pdb
+D:\SOURCEWIS\WIS\Softwarelabor\CPSMobile\WISApp\WISApp.Module.NavigationExample\bin\Debug\Xamarin.Forms.Core.xml
+D:\SOURCEWIS\WIS\Softwarelabor\CPSMobile\WISApp\WISApp.Module.NavigationExample\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\SOURCEWIS\WIS\Softwarelabor\CPSMobile\WISApp\WISApp.Module.NavigationExample\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\SOURCEWIS\WIS\Softwarelabor\CPSMobile\WISApp\WISApp.Module.NavigationExample\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\SOURCEWIS\WIS\Softwarelabor\CPSMobile\WISApp\WISApp.Module.NavigationExample\obj\Debug\WISApp.Module.NavigationExample.View.FirstPage.xaml.g.cs
+D:\SOURCEWIS\WIS\Softwarelabor\CPSMobile\WISApp\WISApp.Module.NavigationExample\obj\Debug\WISApp.Module.NavigationExample.View.SecondPage.xaml.g.cs
+D:\SOURCEWIS\WIS\Softwarelabor\CPSMobile\WISApp\WISApp.Module.NavigationExample\obj\Debug\WISApp.Module.NavigationExample.dll
+D:\SOURCEWIS\WIS\Softwarelabor\CPSMobile\WISApp\WISApp.Module.NavigationExample\obj\Debug\WISApp.Module.NavigationExample.pdb
+D:\SOURCEWIS\WIS\Softwarelabor\CPSMobile\WISApp\WISApp.Module.NavigationExample\obj\Debug\WISApp.Module.NavigationExample.dll.mdb
+D:\SOURCEWIS\WIS\Softwarelabor\CPSMobile\WISApp\WISApp.Module.NavigationExample\bin\Debug\WISApp.Module.NavigationExample.dll.mdb
+T:\WIS_EDV\Ausbildung\Bildungspartnerschaft GTO\2017 Besucher App\WISApp\WISApp.Module.NavigationExample\bin\Debug\WISApp.Module.NavigationExample.dll
+T:\WIS_EDV\Ausbildung\Bildungspartnerschaft GTO\2017 Besucher App\WISApp\WISApp.Module.NavigationExample\bin\Debug\WISApp.Module.NavigationExample.pdb
+T:\WIS_EDV\Ausbildung\Bildungspartnerschaft GTO\2017 Besucher App\WISApp\WISApp.Module.NavigationExample\bin\Debug\GalaSoft.MvvmLight.dll
+T:\WIS_EDV\Ausbildung\Bildungspartnerschaft GTO\2017 Besucher App\WISApp\WISApp.Module.NavigationExample\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+T:\WIS_EDV\Ausbildung\Bildungspartnerschaft GTO\2017 Besucher App\WISApp\WISApp.Module.NavigationExample\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+T:\WIS_EDV\Ausbildung\Bildungspartnerschaft GTO\2017 Besucher App\WISApp\WISApp.Module.NavigationExample\bin\Debug\WISApp.Library.dll
+T:\WIS_EDV\Ausbildung\Bildungspartnerschaft GTO\2017 Besucher App\WISApp\WISApp.Module.NavigationExample\bin\Debug\Xamarin.Forms.Core.dll
+T:\WIS_EDV\Ausbildung\Bildungspartnerschaft GTO\2017 Besucher App\WISApp\WISApp.Module.NavigationExample\bin\Debug\Xamarin.Forms.Platform.dll
+T:\WIS_EDV\Ausbildung\Bildungspartnerschaft GTO\2017 Besucher App\WISApp\WISApp.Module.NavigationExample\bin\Debug\Xamarin.Forms.Xaml.dll
+T:\WIS_EDV\Ausbildung\Bildungspartnerschaft GTO\2017 Besucher App\WISApp\WISApp.Module.NavigationExample\bin\Debug\SQLite.Net.dll
+T:\WIS_EDV\Ausbildung\Bildungspartnerschaft GTO\2017 Besucher App\WISApp\WISApp.Module.NavigationExample\bin\Debug\SQLite.Net.Async.dll
+T:\WIS_EDV\Ausbildung\Bildungspartnerschaft GTO\2017 Besucher App\WISApp\WISApp.Module.NavigationExample\bin\Debug\GalaSoft.MvvmLight.pdb
+T:\WIS_EDV\Ausbildung\Bildungspartnerschaft GTO\2017 Besucher App\WISApp\WISApp.Module.NavigationExample\bin\Debug\GalaSoft.MvvmLight.xml
+T:\WIS_EDV\Ausbildung\Bildungspartnerschaft GTO\2017 Besucher App\WISApp\WISApp.Module.NavigationExample\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+T:\WIS_EDV\Ausbildung\Bildungspartnerschaft GTO\2017 Besucher App\WISApp\WISApp.Module.NavigationExample\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+T:\WIS_EDV\Ausbildung\Bildungspartnerschaft GTO\2017 Besucher App\WISApp\WISApp.Module.NavigationExample\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+T:\WIS_EDV\Ausbildung\Bildungspartnerschaft GTO\2017 Besucher App\WISApp\WISApp.Module.NavigationExample\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+T:\WIS_EDV\Ausbildung\Bildungspartnerschaft GTO\2017 Besucher App\WISApp\WISApp.Module.NavigationExample\bin\Debug\WISApp.Library.pdb
+T:\WIS_EDV\Ausbildung\Bildungspartnerschaft GTO\2017 Besucher App\WISApp\WISApp.Module.NavigationExample\bin\Debug\WISApp.Library.xml
+T:\WIS_EDV\Ausbildung\Bildungspartnerschaft GTO\2017 Besucher App\WISApp\WISApp.Module.NavigationExample\bin\Debug\Xamarin.Forms.Core.pdb
+T:\WIS_EDV\Ausbildung\Bildungspartnerschaft GTO\2017 Besucher App\WISApp\WISApp.Module.NavigationExample\bin\Debug\Xamarin.Forms.Core.xml
+T:\WIS_EDV\Ausbildung\Bildungspartnerschaft GTO\2017 Besucher App\WISApp\WISApp.Module.NavigationExample\bin\Debug\Xamarin.Forms.Platform.pdb
+T:\WIS_EDV\Ausbildung\Bildungspartnerschaft GTO\2017 Besucher App\WISApp\WISApp.Module.NavigationExample\bin\Debug\Xamarin.Forms.Xaml.pdb
+T:\WIS_EDV\Ausbildung\Bildungspartnerschaft GTO\2017 Besucher App\WISApp\WISApp.Module.NavigationExample\bin\Debug\Xamarin.Forms.Xaml.xml
+T:\WIS_EDV\Ausbildung\Bildungspartnerschaft GTO\2017 Besucher App\WISApp\WISApp.Module.NavigationExample\obj\Debug\WISApp.Module.NavigationExample.csprojResolveAssemblyReference.cache
+T:\WIS_EDV\Ausbildung\Bildungspartnerschaft GTO\2017 Besucher App\WISApp\WISApp.Module.NavigationExample\obj\Debug\WISApp.Module.NavigationExample.View.SecondPage.xaml.g.cs
+T:\WIS_EDV\Ausbildung\Bildungspartnerschaft GTO\2017 Besucher App\WISApp\WISApp.Module.NavigationExample\obj\Debug\WISApp.Module.NavigationExample.View.FirstPage.xaml.g.cs
+T:\WIS_EDV\Ausbildung\Bildungspartnerschaft GTO\2017 Besucher App\WISApp\WISApp.Module.NavigationExample\obj\Debug\WISApp.Module.NavigationExample.dll
+T:\WIS_EDV\Ausbildung\Bildungspartnerschaft GTO\2017 Besucher App\WISApp\WISApp.Module.NavigationExample\obj\Debug\WISApp.Module.NavigationExample.pdb
+T:\WIS_EDV\Ausbildung\Bildungspartnerschaft GTO\2017 Besucher App\WISApp\WISApp.Module.NavigationExample\obj\Debug\WISApp.Module.NavigationExample.dll.mdb
+T:\WIS_EDV\Ausbildung\Bildungspartnerschaft GTO\2017 Besucher App\WISApp\WISApp.Module.NavigationExample\bin\Debug\WISApp.Module.NavigationExample.dll.mdb
+D:\src_Test\GTO\WISApp\WISApp.Module.NavigationExample\bin\Debug\WISApp.Module.NavigationExample.dll
+D:\src_Test\GTO\WISApp\WISApp.Module.NavigationExample\bin\Debug\WISApp.Module.NavigationExample.pdb
+D:\src_Test\GTO\WISApp\WISApp.Module.NavigationExample\bin\Debug\GalaSoft.MvvmLight.dll
+D:\src_Test\GTO\WISApp\WISApp.Module.NavigationExample\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\src_Test\GTO\WISApp\WISApp.Module.NavigationExample\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\src_Test\GTO\WISApp\WISApp.Module.NavigationExample\bin\Debug\WISApp.Library.dll
+D:\src_Test\GTO\WISApp\WISApp.Module.NavigationExample\bin\Debug\Xamarin.Forms.Core.dll
+D:\src_Test\GTO\WISApp\WISApp.Module.NavigationExample\bin\Debug\Xamarin.Forms.Platform.dll
+D:\src_Test\GTO\WISApp\WISApp.Module.NavigationExample\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\src_Test\GTO\WISApp\WISApp.Module.NavigationExample\bin\Debug\SQLite.Net.dll
+D:\src_Test\GTO\WISApp\WISApp.Module.NavigationExample\bin\Debug\SQLite.Net.Async.dll
+D:\src_Test\GTO\WISApp\WISApp.Module.NavigationExample\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\src_Test\GTO\WISApp\WISApp.Module.NavigationExample\bin\Debug\GalaSoft.MvvmLight.xml
+D:\src_Test\GTO\WISApp\WISApp.Module.NavigationExample\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\src_Test\GTO\WISApp\WISApp.Module.NavigationExample\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\src_Test\GTO\WISApp\WISApp.Module.NavigationExample\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\src_Test\GTO\WISApp\WISApp.Module.NavigationExample\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\src_Test\GTO\WISApp\WISApp.Module.NavigationExample\bin\Debug\WISApp.Library.pdb
+D:\src_Test\GTO\WISApp\WISApp.Module.NavigationExample\bin\Debug\WISApp.Library.xml
+D:\src_Test\GTO\WISApp\WISApp.Module.NavigationExample\bin\Debug\Xamarin.Forms.Core.pdb
+D:\src_Test\GTO\WISApp\WISApp.Module.NavigationExample\bin\Debug\Xamarin.Forms.Core.xml
+D:\src_Test\GTO\WISApp\WISApp.Module.NavigationExample\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\src_Test\GTO\WISApp\WISApp.Module.NavigationExample\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\src_Test\GTO\WISApp\WISApp.Module.NavigationExample\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\src_Test\GTO\WISApp\WISApp.Module.NavigationExample\obj\Debug\WISApp.Module.NavigationExample.csprojResolveAssemblyReference.cache
+D:\src_Test\GTO\WISApp\WISApp.Module.NavigationExample\obj\Debug\WISApp.Module.NavigationExample.View.SecondPage.xaml.g.cs
+D:\src_Test\GTO\WISApp\WISApp.Module.NavigationExample\obj\Debug\WISApp.Module.NavigationExample.View.FirstPage.xaml.g.cs
+D:\src_Test\GTO\WISApp\WISApp.Module.NavigationExample\obj\Debug\WISApp.Module.NavigationExample.dll
+D:\src_Test\GTO\WISApp\WISApp.Module.NavigationExample\obj\Debug\WISApp.Module.NavigationExample.pdb
+D:\src_Test\GTO\WISApp\WISApp.Module.NavigationExample\obj\Debug\WISApp.Module.NavigationExample.dll.mdb
+D:\src_Test\GTO\WISApp\WISApp.Module.NavigationExample\bin\Debug\WISApp.Module.NavigationExample.dll.mdb
+D:\src_Test\WISApp\WISApp.Module.NavigationExample\bin\Debug\WISApp.Module.NavigationExample.dll
+D:\src_Test\WISApp\WISApp.Module.NavigationExample\bin\Debug\WISApp.Module.NavigationExample.pdb
+D:\src_Test\WISApp\WISApp.Module.NavigationExample\bin\Debug\GalaSoft.MvvmLight.dll
+D:\src_Test\WISApp\WISApp.Module.NavigationExample\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\src_Test\WISApp\WISApp.Module.NavigationExample\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\src_Test\WISApp\WISApp.Module.NavigationExample\bin\Debug\WISApp.Library.dll
+D:\src_Test\WISApp\WISApp.Module.NavigationExample\bin\Debug\Xamarin.Forms.Core.dll
+D:\src_Test\WISApp\WISApp.Module.NavigationExample\bin\Debug\Xamarin.Forms.Platform.dll
+D:\src_Test\WISApp\WISApp.Module.NavigationExample\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\src_Test\WISApp\WISApp.Module.NavigationExample\bin\Debug\SQLite.Net.dll
+D:\src_Test\WISApp\WISApp.Module.NavigationExample\bin\Debug\SQLite.Net.Async.dll
+D:\src_Test\WISApp\WISApp.Module.NavigationExample\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\src_Test\WISApp\WISApp.Module.NavigationExample\bin\Debug\GalaSoft.MvvmLight.xml
+D:\src_Test\WISApp\WISApp.Module.NavigationExample\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\src_Test\WISApp\WISApp.Module.NavigationExample\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\src_Test\WISApp\WISApp.Module.NavigationExample\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\src_Test\WISApp\WISApp.Module.NavigationExample\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\src_Test\WISApp\WISApp.Module.NavigationExample\bin\Debug\WISApp.Library.pdb
+D:\src_Test\WISApp\WISApp.Module.NavigationExample\bin\Debug\WISApp.Library.xml
+D:\src_Test\WISApp\WISApp.Module.NavigationExample\bin\Debug\Xamarin.Forms.Core.pdb
+D:\src_Test\WISApp\WISApp.Module.NavigationExample\bin\Debug\Xamarin.Forms.Core.xml
+D:\src_Test\WISApp\WISApp.Module.NavigationExample\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\src_Test\WISApp\WISApp.Module.NavigationExample\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\src_Test\WISApp\WISApp.Module.NavigationExample\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\src_Test\WISApp\WISApp.Module.NavigationExample\obj\Debug\WISApp.Module.NavigationExample.View.SecondPage.xaml.g.cs
+D:\src_Test\WISApp\WISApp.Module.NavigationExample\obj\Debug\WISApp.Module.NavigationExample.View.FirstPage.xaml.g.cs
+D:\src_Test\WISApp\WISApp.Module.NavigationExample\obj\Debug\WISApp.Module.NavigationExample.dll
+D:\src_Test\WISApp\WISApp.Module.NavigationExample\obj\Debug\WISApp.Module.NavigationExample.pdb
+D:\src_Test\WISApp\WISApp.Module.NavigationExample\obj\Debug\WISApp.Module.NavigationExample.dll.mdb
+D:\src_Test\WISApp\WISApp.Module.NavigationExample\bin\Debug\WISApp.Module.NavigationExample.dll.mdb
+C:\Users\Sebastian\Desktop\Würth\WISApp\WISApp.Module.NavigationExample\bin\Debug\WISApp.Module.NavigationExample.dll
+C:\Users\Sebastian\Desktop\Würth\WISApp\WISApp.Module.NavigationExample\bin\Debug\WISApp.Module.NavigationExample.pdb
+C:\Users\Sebastian\Desktop\Würth\WISApp\WISApp.Module.NavigationExample\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Sebastian\Desktop\Würth\WISApp\WISApp.Module.NavigationExample\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Sebastian\Desktop\Würth\WISApp\WISApp.Module.NavigationExample\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Sebastian\Desktop\Würth\WISApp\WISApp.Module.NavigationExample\bin\Debug\WISApp.Library.dll
+C:\Users\Sebastian\Desktop\Würth\WISApp\WISApp.Module.NavigationExample\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Sebastian\Desktop\Würth\WISApp\WISApp.Module.NavigationExample\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Sebastian\Desktop\Würth\WISApp\WISApp.Module.NavigationExample\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Sebastian\Desktop\Würth\WISApp\WISApp.Module.NavigationExample\bin\Debug\SQLite.Net.dll
+C:\Users\Sebastian\Desktop\Würth\WISApp\WISApp.Module.NavigationExample\bin\Debug\SQLite.Net.Async.dll
+C:\Users\Sebastian\Desktop\Würth\WISApp\WISApp.Module.NavigationExample\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Sebastian\Desktop\Würth\WISApp\WISApp.Module.NavigationExample\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Sebastian\Desktop\Würth\WISApp\WISApp.Module.NavigationExample\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Sebastian\Desktop\Würth\WISApp\WISApp.Module.NavigationExample\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Sebastian\Desktop\Würth\WISApp\WISApp.Module.NavigationExample\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Sebastian\Desktop\Würth\WISApp\WISApp.Module.NavigationExample\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Sebastian\Desktop\Würth\WISApp\WISApp.Module.NavigationExample\bin\Debug\WISApp.Library.pdb
+C:\Users\Sebastian\Desktop\Würth\WISApp\WISApp.Module.NavigationExample\bin\Debug\WISApp.Library.xml
+C:\Users\Sebastian\Desktop\Würth\WISApp\WISApp.Module.NavigationExample\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Sebastian\Desktop\Würth\WISApp\WISApp.Module.NavigationExample\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Sebastian\Desktop\Würth\WISApp\WISApp.Module.NavigationExample\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Sebastian\Desktop\Würth\WISApp\WISApp.Module.NavigationExample\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Sebastian\Desktop\Würth\WISApp\WISApp.Module.NavigationExample\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Sebastian\Desktop\Würth\WISApp\WISApp.Module.NavigationExample\obj\Debug\WISApp.Module.NavigationExample.csprojResolveAssemblyReference.cache
+C:\Users\Sebastian\Desktop\Würth\WISApp\WISApp.Module.NavigationExample\obj\Debug\WISApp.Module.NavigationExample.View.SecondPage.xaml.g.cs
+C:\Users\Sebastian\Desktop\Würth\WISApp\WISApp.Module.NavigationExample\obj\Debug\WISApp.Module.NavigationExample.View.FirstPage.xaml.g.cs
+C:\Users\Sebastian\Desktop\Würth\WISApp\WISApp.Module.NavigationExample\obj\Debug\WISApp.Module.NavigationExample.dll
+C:\Users\Sebastian\Desktop\Würth\WISApp\WISApp.Module.NavigationExample\obj\Debug\WISApp.Module.NavigationExample.pdb
